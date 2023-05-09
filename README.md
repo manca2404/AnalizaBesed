@@ -7,3 +7,4 @@ v okviru tega projekta se bomo ukvarjali s preprosto analizo besed.
 * Pika Nogavička
 * Panda Po
 * Franček
+* Nodi
