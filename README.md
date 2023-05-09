@@ -11,3 +11,4 @@ v okviru tega projekta se bomo ukvarjali s preprosto analizo besed.
 * Franček
 * Nodi
 * Snežko
+* Nik Kac
